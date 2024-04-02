@@ -2,7 +2,7 @@
 
 ### Hi I'm Md.Abu Essa
 
-Experienced Software Engineer with a demonstrated history of working in the software development team of Bangladesh University of Business and Technology .Skilled in C , C++, Python ,Java ,Flutter and PHP programming Language.Currently  I am working as App Developer Intern in Trudiv Company.
+Experienced Software Engineer with a demonstrated history of working in the software development team of Bangladesh University of Business and Technology .Skilled in C , C++, Python ,Java ,Flutter and PHP programming Language.Currently  I am working as App Developer Intern in Trodiv Company.
 
 Skills:  HTML / CSS/C/C++/Java/Flutter
 
