@@ -44,7 +44,7 @@ Skills:  HTML || CSS || C || C++ || Java || Flutter || Dart || Oracle apex
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.svgrepo.com%2Fshow%2F374173%2Fvscode3.svg&tbnid=g2CNO8HWTiOArM&vet=12ahUKEwiZysXU8LWGAxXJ7zgGHTiuB5YQMygBegQIARAq..i&imgrefurl=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F374171%2Fvscode&docid=-B6DlHibl-WV9M&w=800&h=800&q=vscode.svg&ved=2ahUKEwiZysXU8LWGAxXJ7zgGHTiuB5YQMygBegQIARAq" alt="postman" width="40" height="40"/> </a>
+  
  
 
 
