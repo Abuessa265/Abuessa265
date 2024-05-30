@@ -20,7 +20,8 @@ Skills:  HTML || CSS || C || C++ || Java || Flutter || Dart || Oracle apex
   
 <a href="https://www.linkedin.com/in/engr-md-abu-essa-375ba9290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
   
-<a href="https://www.facebook.com/abuessa.student.1999" target="blank"><img align="center" src="https://www.google.com/search?q=facebook.svg&oq=facebook.svg&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIGCAEQABgeMgYIAhAAGB4yBggDEAAYHjIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQRRg80gEINTU3NWowajeoAgiwAgE&sourceid=chrome&ie=UTF-8#vhid=FGSYZ_fedTAP7M&vssid=l" alt="adityajaiswal7" height="30" width="40" /></a>
+<a href="https://www.facebook.com/abuessa.student.1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
+
   
 </p>
 
