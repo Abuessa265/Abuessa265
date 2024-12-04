@@ -7,7 +7,6 @@
 
 Skills:  HTML || CSS || C || C++ || Java || Flutter || Dart
 - 💻 I love programming
-- 🔭 I’m currently working on Trodev-IT Company 
 - 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about App Development 
